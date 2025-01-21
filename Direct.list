@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 
+
 # PT
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,ptchdbits.co
@@ -15,6 +16,14 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,nicept.net
+
+
+# PT tracker
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,rainbowisland.co
+DOMAIN-SUFFIX,chdbits.xyz
+DOMAIN-SUFFIX,m-team.io
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
