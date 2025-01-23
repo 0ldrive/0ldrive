@@ -1,10 +1,4 @@
 # 代理补充列表
-IP-CIDR,95.161.76.101,no-resolve
-IP-CIDR,120.36.85.116,no-resolve
-IP-CIDR,117.85.59.250,no-resolve
-IP-CIDR,218.1.138.45,no-resolve
-IP-CIDR,123.120.57.248,no-resolve
-IP-CIDR,185.199.108.133,no-resolve
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
