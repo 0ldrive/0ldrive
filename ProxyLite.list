@@ -8,6 +8,7 @@ IP-CIDR,185.199.108.133,no-resolve
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 
 # 域名关键字匹配
